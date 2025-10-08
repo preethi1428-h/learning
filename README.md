@@ -20,3 +20,6 @@ print(f"Modulo: {modulo_result}")
 roman ku arive illa
 print("Hello, World!")
 
+
+Roman Kammunati Summa irra 
+preethi vaai la ye vangi kuda thirunthala daa
